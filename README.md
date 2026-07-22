@@ -53,7 +53,7 @@
 
 ```bash
 # Clone repository
-git clone [https://github.com/iamilia/NCSI-Tool.git](https://github.com/iamilia/NCSI-Tool.git)
+git clone https://github.com/iamilia/NCSI-Tool.git
 cd NCSI-Tool
 
 # Install dependencies
@@ -61,3 +61,4 @@ pip install PyQt6
 
 # Run application
 python NCSI-Tool.py
+```
